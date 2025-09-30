@@ -17,5 +17,8 @@
     "url": "https://github.com/zeplin-rowe/Chat-App/issues"
   },
   "homepage": "https://github.com/zeplin-rowe/Chat-App#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
